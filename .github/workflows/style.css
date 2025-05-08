@@ -3,3 +3,6 @@ img{
   height: 280px;
   object-fit: cover;
 }
+.card{
+  width: 18rem;
+}
